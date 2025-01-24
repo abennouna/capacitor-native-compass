@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-native-compass",
+  "name": "@abennouna/capacitor-native-compass",
   "version": "0.0.3",
   "description": "Capacitor plugin for an easy compass using the native device sensors",
   "main": "dist/plugin.cjs.js",
@@ -14,13 +14,19 @@
     "CapacitorNativeCompass.podspec"
   ],
   "author": "Kai Niebes",
+  "contributors": [
+    {
+      "name": "Abdelaziz Bennouna",
+      "email": "abennouna@github.com"
+    }
+  ],
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HeyItsBATMAN/capacitor-native-compass.git.git"
+    "url": "git+https://github.com/abennouna/capacitor-native-compass.git.git"
   },
   "bugs": {
-    "url": "https://github.com/HeyItsBATMAN/capacitor-native-compass.git/issues"
+    "url": "https://github.com/abennouna/capacitor-native-compass.git/issues"
   },
   "keywords": [
     "capacitor",
