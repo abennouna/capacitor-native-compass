@@ -14,7 +14,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorNativeCompass.podspec"
+    "AbennounaCapacitorNativeCompass.podspec"
   ],
   "author": "Kai Niebes",
   "contributors": [
