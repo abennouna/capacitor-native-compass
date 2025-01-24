@@ -2,16 +2,7 @@
     <img src="https://raw.githubusercontent.com/abennouna/capacitor-native-compass/master/logo.svg" width="640">
 </p>
 
-Capacitor plugin for an easy compass using the native device sensors
-
-## Install
-
-```bash
-npm install capacitor-native-compass
-npx cap sync
-```
-
-## API
+Capacitor plugin for an easy compass using the native device sensors.
 
 <docgen-index>
 
@@ -20,6 +11,15 @@ npx cap sync
   - [getCurrentHeading()](#getcurrentheading)
 
 </docgen-index>
+
+## Install
+
+```bash
+npm install @abennouna/capacitor-native-compass
+npx cap sync
+```
+
+## API
 
 <docgen-api>
 <!--Update the source file JSDoc comments and rerun docgen to update the docs below-->
