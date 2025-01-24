@@ -1,6 +1,9 @@
 {
   "name": "@abennouna/capacitor-native-compass",
   "version": "0.0.4",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Capacitor plugin for an easy compass using the native device sensors",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
